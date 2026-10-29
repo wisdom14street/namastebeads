@@ -1,0 +1,7 @@
+:root{--ink:#3a2418;--onink:#fbf4ea;--paper:#fbf4ea;--card:#fffaf3;--soft:#f6e3cf;--muted:#6b5546;--line:#ecd9c4;--accent:#d9824b;--onaccent:#2a160c;--accentdark:#9a4a1c;--focus:#2f6f5e;
+--display:Fraunces,Georgia,serif;--body:"Work Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--r:24px;--btnr:999px}
+.hero{background:radial-gradient(circle at 80% 20%,#d9824b55 0 18%,transparent 19%),radial-gradient(circle at 70% 60%,#2f6f5e55 0 10%,transparent 11%),radial-gradient(circle at 90% 75%,#e7c27d55 0 7%,transparent 8%),linear-gradient(160deg,#2a160c,#4a2e1f)}
+.hero h1 em{font-style:italic;color:#f0b98d}
+.collage{grid-template-columns:repeat(2,1fr)}.collage img{border-radius:50%;border:6px solid #fbf4ea22}
+.card{border-radius:24px}.card .ph img{border-radius:24px 24px 0 0}.scent{border-top:0;border-radius:24px;background:linear-gradient(180deg,#fff,var(--card));box-shadow:inset 0 6px 0 var(--c)}
+.bar{background:#2f6f5e;color:#fbf4ea}

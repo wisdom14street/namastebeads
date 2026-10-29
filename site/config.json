@@ -1,0 +1,17 @@
+{
+  "brand": "Namaste Beads",
+  "short_name": "Namaste Beads",
+  "site_url": "https://namastebeads.com",
+  "storefront": "Namaste Beads",
+  "REVIEW_URL": "",
+  "GOOGLE_SITE_VERIFICATION": "",
+  "store_type": "JewelryStore",
+  "price_range": "$",
+  "icon": "beads",
+  "layout": "l-beads",
+  "kinds": ["beaded", "mala", "beads", "necklace", "anklet", "ring", "bracelet", "earrings", "pendant"],
+  "best_collections": ["crystal-bead-bracelets", "8mm-beaded-bracelet", "chakra-bracelets", "bracelets"],
+  "siblings": [["Namaste Bead Shop: malas & prayer beads", "https://namastebeadshop.com/"], ["Namaste Bead Store: bracelets by stone & intention", "https://namastebeadstore.com/"], ["Namaste Crystal Jewelry", "https://namastecrystaljewelry.com/"], ["Manhattan Crystal Market", "https://manhattancrystalmarket.com/"]],
+  "theme": {"ink": "#3a2418", "paper": "#fbf4ea", "accent": "#d9824b",
+            "fonts": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Work+Sans:wght@400;500;700&display=swap"}
+}
