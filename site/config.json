@@ -13,5 +13,6 @@
   "best_collections": ["crystal-bead-bracelets", "8mm-beaded-bracelet", "chakra-bracelets", "bracelets"],
   "siblings": [["Namaste Bead Shop: malas & prayer beads", "https://namastebeadshop.com/"], ["Namaste Bead Store: bracelets by stone & intention", "https://namastebeadstore.com/"], ["Namaste Crystal Jewelry", "https://namastecrystaljewelry.com/"], ["Manhattan Crystal Market", "https://manhattancrystalmarket.com/"]],
   "theme": {"ink": "#3a2418", "paper": "#fbf4ea", "accent": "#d9824b",
-            "fonts": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Work+Sans:wght@400;500;700&display=swap"}
+            "fonts": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Work+Sans:wght@400;500;700&display=swap"},
+ "GA_MEASUREMENT_ID": "G-Y7R5K9NMW0"
 }
